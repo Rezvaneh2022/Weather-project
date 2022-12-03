@@ -1,0 +1,48 @@
+.cel{
+    color:#9ba6a5;
+text-decoration: none;
+}
+
+.far{
+    color:#9ba6a5;
+    text-decoration: none;
+}
+
+.page{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.first{
+    text-align: center;
+    margin-left: 340px;
+}
+
+.firstcardtitle{
+    font-size: x-large;
+   
+}
+.firstCardText{
+    color:#9ba6a5 ;
+}
+
+.date{
+    color:#9ba6a5 ;
+}
+
+
+.card{
+    text-align: center; 
+}
+
+
+.searchButton{
+    border-radius: 10%;
+    padding-right: 1.5%;
+    background-color: white;
+    border-width: thin;
+}
+
+.form{
+    margin-bottom: 1%;
+}
