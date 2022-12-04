@@ -1,0 +1,17 @@
+.page {
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+.first {
+  text-align: center;
+  margin-left: 250px;
+}
+
+.firstcardtitle {
+  font-size: x-large;
+}
+
+.card {
+  text-align: center;
+}
